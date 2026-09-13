@@ -25,8 +25,6 @@ Otros paneles/herramientas son:
 Esta herramienta se generó como un apoyo para la investigación, la vigilancia climática y la adaptación al cambio climático, 
 integrando evidencia científica y tecnologías abiertas para facilitar la interpretación de los eventos de calor extremo en Santa Marta. 
 
-Accede al dashboard: https://lnkd.in/eN-2YH97
-
 Este piloto se diseñó y desarrolló entre la Universidad Cooperativa de Colombia (grupo de investigación GRISAL) 
 y la Universidad del Magdalena (grupo de investigación GICCE) con la profe Lidice Alvarez. 
 
