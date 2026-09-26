@@ -33,3 +33,14 @@ donde compartimos información de un futuro taller.
 
 Nos interesa conocer sus comentarios y explorar oportunidades de colaboración para extender esta metodología a otras ciudades 
 de Colombia y América Latina.
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+
+Esto significa que usted es libre de:
+
+- **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
+- **Adaptar** — remezclar, transformar y construir a partir del material.
+
+- Bajo los siguientes términos: Alexander Salazar y Lidice Alvarez
